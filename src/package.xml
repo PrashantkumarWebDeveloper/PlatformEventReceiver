@@ -8,5 +8,9 @@
         <members>Platform_Event_Receiver</members>
         <name>CustomTab</name>
     </types>
+    <types>
+        <members>Platform_Event_Receiver_Permission</members>
+        <name>PermissionSet</name>
+    </types>
     <version>54.0</version>
 </Package>
