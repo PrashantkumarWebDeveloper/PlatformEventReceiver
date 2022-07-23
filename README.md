@@ -7,7 +7,7 @@ This component subscribes to platform event through emp API and shows the fired 
 
 
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=PrashantkumarWebDeveloper&repo=PlatformEventReceiver&ref=https://github.com/PrashantkumarWebDeveloper/PlatformEventReceiver">
+<a href="https://githubsfdeploy.herokuapp.com?owner=PrashantkumarWebDeveloper&repo=PlatformEventReceiver">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
